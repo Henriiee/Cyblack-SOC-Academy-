@@ -32,7 +32,7 @@ We analyzed 31 file hashes to identify malicious activity and discovered one inf
 - **Malware Identified:** StealBit (Data Exfiltration Tool).  
 - **Associated Threat Group:** LockBit Ransomware.  
 - **Category:** Data Theft / Exfiltration Malware used in Ransomware Campaigns.  
-- **Malicious SHA-256 Hash:** `107d9fce05ff8296d0417a5a830d180cd46aa120ced8360df3ebfd15cb550636`  
+- **Malicious SHA-256 Hash:** `Finf in Presentation.pptx`  
 
 ---
 
@@ -57,6 +57,7 @@ I also deepened my understanding of SOC operations and threat intelligence throu
 | `/presentation` | Executive Summary Presentation |
 | `/scripts` | Python script used for hash scanning |
 | `/iocs` | Indicators of Compromise  |
+| `/yare-rules` | To detect future attacks  |
 
 ---
 
