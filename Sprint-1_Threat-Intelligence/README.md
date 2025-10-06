@@ -32,7 +32,7 @@ We analyzed 31 file hashes to identify malicious activity and discovered one inf
 - **Malware Identified:** StealBit (Data Exfiltration Tool).  
 - **Associated Threat Group:** LockBit Ransomware.  
 - **Category:** Data Theft / Exfiltration Malware used in Ransomware Campaigns.  
-- **Malicious SHA-256 Hash:** `Finf in Presentation.pptx`  
+- **Malicious SHA-256 Hash:** `Find hash in Presentation.pptx`  
 
 ---
 
