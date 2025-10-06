@@ -56,7 +56,6 @@ I also deepened my understanding of SOC operations and threat intelligence throu
 |---------|--------------|
 | `/presentation` | Executive Summary Presentation |
 | `/scripts` | Python script used for hash scanning |
-| `/iocs` | Indicators of Compromise  |
 | `/yare-rules` | To detect future attacks  |
 
 ---
